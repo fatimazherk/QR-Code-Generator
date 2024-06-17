@@ -11,3 +11,6 @@ Output Formats: Save your QR codes as PNG images.
 
 Contact
 For any questions or suggestions, feel free to open an issue or contact me at fatimazherk@gmail.com
+
+
+![image](https://github.com/fatimazherk/QR-Code-Generator/assets/164335042/b1899505-978c-4bd2-a3aa-b0e43ac769f4)
